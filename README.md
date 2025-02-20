@@ -8,7 +8,7 @@
   👉🏻SPSS操作更為方便，基本上只要點選要對應的統計分析就可RUN出data了
 ---
 
-# SAS
+### SAS
  功能強大，常用於醫學統計、金融業
  <table border="1">
   <tr>
@@ -35,7 +35,7 @@
 
 ---
 
-# SPSS(PASW)
+### SPSS(PASW)
  容易上手，處理資料庫有限
 <table border="1">
   <tr>
