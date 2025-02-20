@@ -35,7 +35,7 @@
 ---
 ### SPSS(PASW)
 - 容易上手，處理資料庫有限
-- <table border="1">
+-  <table border="1">
   <tr>
     <th>進入門檻</th>
     <td>基本統計學概念</td>
