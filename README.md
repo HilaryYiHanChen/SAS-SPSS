@@ -1,6 +1,6 @@
-# SAS與SPSS學習歷程
+# SAS與SPSS工具介紹與學習
 
-### 🔭 Background & Basic introduction
+### 🔭 學習歷程
 - 大二開始接觸生物統計和生物統計語法**SAS**，之後熟悉後才開始學**SPSS**
 - 需要基本統計基礎，運用在SAS、SPSS(PASW)上會快速許多
 - 除了基本統計，也要練習邏輯運用，兩個最大的差別是`SAS需要寫語法`、`SPSS則不需` (_後面會有表格做比較_) <br>
